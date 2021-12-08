@@ -1,1 +1,3 @@
-# slide-menu-bar
+# Menu bar slider
+
+![screenshot](./images/video.gif)
